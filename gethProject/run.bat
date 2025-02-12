@@ -1,0 +1,1 @@
+geth --http --http.addr "127.0.0.1" --http.port "8584" --http.api "eth, miner, net, web3, admin, personal" --networkid 15 --datadir C:\gethProject --allow-insecure-unlock --http.corsdomain "*" console
